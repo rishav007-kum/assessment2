@@ -1,3 +1,11 @@
+## Live demo
+
+Try the interface: [SignalCheck — Fake News Analysis](https://rishav007-kum.github.io/assessment/)
+
+> The displayed score is illustrative. The trained CompareNet model is not connected.
+
+---
+
 Code for the ACL 2021 paper "[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
 
 
