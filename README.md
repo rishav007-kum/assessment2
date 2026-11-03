@@ -4,6 +4,26 @@ Try the interface: [SignalCheck — Fake News Analysis](https://rishav007-kum.gi
 
 > The displayed score is illustrative. The trained CompareNet model is not connected.
 
+## How to use the demo
+
+1. Open the [SignalCheck interface](https://rishav007-kum.github.io/assessment/).
+2. Choose **Article text** or **Article URL** and enter a sample.
+3. Click **Analyze story** to reveal the result below.
+
+## Example output
+
+Sample input: `Sample headline for demonstration: A city council announces a new community park opening this summer.`
+
+```text
+Score: 89
+Label: Potentially unreliable
+Text signal: Needs review
+Entity context: Limited evidence
+Confidence: Illustrative
+```
+
+This is a sample interface result, not a CompareNet prediction. The trained model is not connected.
+
 ---
 
 Code for the ACL 2021 paper "[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
